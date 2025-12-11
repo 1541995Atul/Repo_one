@@ -1,0 +1,3 @@
+GPG KEYS
+Git dif
+git pull
